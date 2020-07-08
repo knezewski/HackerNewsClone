@@ -1,2 +1,1 @@
-# HackerNewsClone
-a Hacker News clone in vanilla JavaScript.
+A Hacker News clone in vanilla JavaScript.
